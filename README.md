@@ -1,16 +1,14 @@
-# React + Vite
+# TOEIC Flashcards App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Giới thiệu
+Ứng dụng nhỏ hỗ trợ học từ vựng TOEIC thông qua hình thức thẻ ghi nhớ (Flashcards) tương tác. Đây là một phần của báo cáo quá trình giữa kỳ môn Thực hành nghề nghiệp.
 
-Currently, two official plugins are available:
+## 2. Công nghệ sử dụng
+- **Frontend:** ReactJS (Vite)
+- **Hooks:** useState để quản lý trạng thái lật thẻ.
+- **Styling:** CSS Inline & CSS Transition.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 3. Cách chạy dự án
+- B1: Clone repo: `git clone [link-cua-ban]`
+- B2: Cài đặt: `npm install`
+- B3: Khởi chạy: `npm run dev`
