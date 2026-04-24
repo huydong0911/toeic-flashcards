@@ -9,6 +9,6 @@
 - **Styling:** CSS Inline & CSS Transition.
 
 ## 3. Cách chạy dự án
-- B1: Clone repo: `git clone [link-cua-ban]`
+- B1: Clone repo: `git clone (https://github.com/huydong0911/toeic-flashcards.git)
 - B2: Cài đặt: `npm install`
 - B3: Khởi chạy: `npm run dev`
